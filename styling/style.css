@@ -1,0 +1,23 @@
+body {
+	background-image:url('Reddit_logo.png');
+	background-repeat: no-repeat;
+    background-position: 0% 90%;
+    background-attachment: fixed;
+}
+
+.searchbar{
+	position: relative;
+	top: 20px;
+
+}
+
+button {
+	background: #0077D6;
+	color: white;
+	border: none;
+	border-radius: 2px;
+}
+
+input {
+	border-radius: 2px;
+}
